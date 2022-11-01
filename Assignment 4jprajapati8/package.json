@@ -1,12 +1,20 @@
 {
-  "name": "assignment-4_jprajapati8",
+  "name": "assignment-4jprajapati8",
   "version": "1.0.0",
   "description": "",
-  "main": "server.js",
+  "main": "data-service.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jainam200/ASSIGNMENT_Jainam.git"
+  },
   "author": "Jainam",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jainam200/ASSIGNMENT_Jainam/issues"
+  },
+  "homepage": "https://github.com/Jainam200/ASSIGNMENT_Jainam#readme"
 }
